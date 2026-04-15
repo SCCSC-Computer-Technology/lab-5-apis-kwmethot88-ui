@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CPT206.SQLServer/DataContext.SqlServer/DataContext.SqlServer.csproj" />
+  <Project Path="CPT206WebAPI/CPT206WebAPI.csproj" />
+</Solution>
