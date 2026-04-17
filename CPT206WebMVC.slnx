@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../CPT206.SQLServer/DataContext.SqlServer/DataContext.SqlServer.csproj" />
+  <Project Path="CPT206WebMVC/CPT206WebMVC.csproj" />
+  <Project Path="Minimal.WebApi/Minimal.WebApi.csproj" Id="bac900e4-8368-4fa8-8976-affb2b4ca652" />
+  <Project Path="Northwind.Common/Northwind.Common.csproj" Id="39381793-8034-45de-a1f8-4e65478c047b" />
+</Solution>
